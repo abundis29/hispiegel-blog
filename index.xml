@@ -2,23 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi Spiegel </title>
-    <link>http://localhost:1313/hispiegel-blog/</link>
+    <link>https://abundis29.github.io/hispiegel-blog/</link>
     <description>Recent content on Hi Spiegel </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 23:12:53 -0600</lastBuildDate><atom:link href="http://localhost:1313/hispiegel-blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Life is stranger than fiction because fiction has to make sense</title>
-      <link>http://localhost:1313/hispiegel-blog/posts/my-first-post/</link>
-      <pubDate>Sun, 31 Oct 2021 23:12:53 -0600</pubDate>
-      
-      <guid>http://localhost:1313/hispiegel-blog/posts/my-first-post/</guid>
-      <description>Hi, My name is Spiegel ish.
- Life is stranger than fiction because fiction has to make sense.
-I&amp;rsquo;m weak with words and sentences. I don&amp;rsquo;t know how to talk to other people. But I&amp;rsquo;m doing my best to get over this situation.
-The purpose of this blog is this, and if you know me or want to know me, please bear with me.
-I&amp;rsquo;ll try to tell you my day x day life stories with my own very words.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://abundis29.github.io/hispiegel-blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
