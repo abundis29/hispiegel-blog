@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi Spiegel </title>
-    <link>http://localhost:1313/hispiegel-blog/</link>
-    <description>Recent content on Hi Spiegel </description>
+    <title>Posts on Hi Spiegel </title>
+    <link>http://localhost:1313/hispiegel-blog/posts/</link>
+    <description>Recent content in Posts on Hi Spiegel </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 23:12:53 -0600</lastBuildDate><atom:link href="http://localhost:1313/hispiegel-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Oct 2021 23:12:53 -0600</lastBuildDate><atom:link href="http://localhost:1313/hispiegel-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life is stranger than fiction because fiction has to make sense</title>
       <link>http://localhost:1313/hispiegel-blog/posts/my-first-post/</link>
